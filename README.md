@@ -98,7 +98,7 @@ Each chart is based on SQL queries connected directly to the sales table.
 
 ## 📸 Dashboard Preview
 
-> _Dashbaord Click [here](https://drive.google.com/file/d/1NeeqhTwC6LUDuqE_Cos0W7QAo5rTUvU2/view?usp=sharing)
+> _Dashbaord Click [here](https://github.com/makramzk/Mini-Project-for-Mock-Interview/blob/e9eeeda9baef9c19aeb4828ee9d61e040b5adda8/Mini%20Project%20Dashboard.png)
 
 ---
 
