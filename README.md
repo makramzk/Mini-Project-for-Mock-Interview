@@ -10,7 +10,7 @@ In the world of **Business Intelligence (BI)**, practical hands-on exercises are
 
 This project leverages **Databricks** — a unified platform for data engineering and analytics — to process and visualize sales data for **GlobalMart**, a fictional retail company.
 
-![Sales Dashboard Sample](https://drive.google.com/file/d/1NeeqhTwC6LUDuqE_Cos0W7QAo5rTUvU2/view?usp=sharing)
+[Sales Dashboard Sample](https://github.com/makramzk/Mini-Project-for-Mock-Interview/blob/e9eeeda9baef9c19aeb4828ee9d61e040b5adda8/Mini%20Project%20Dashboard.png)
 
 ---
 
